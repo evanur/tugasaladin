@@ -4,6 +4,7 @@ const Styles={
     app:{
         width:360,
         backgroundColor:'white',
+     
     },
     icon:{
         marginLeft:-10,
