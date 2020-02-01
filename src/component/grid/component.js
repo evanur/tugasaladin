@@ -40,7 +40,7 @@ function Grids(props){
 
 
             <Grid item xs={4}>
-              <Paper className={classes.paper}>
+              <Paper className={classes.papers}>
                 <IconButton className={classes.mall}>
                   <LocalMallIcon/>
                 </IconButton>
@@ -48,7 +48,7 @@ function Grids(props){
                 <Typography className={classes.tulisan}>hotels</Typography>
             </Grid>
             <Grid item xs={4}>
-              <Paper className={classes.paper}>
+              <Paper className={classes.papers}>
                 <IconButton className={classes.kreta}>
                   <TrainIcon/>
                 </IconButton>
@@ -56,7 +56,7 @@ function Grids(props){
               <Typography className={classes.tulisan}>Trains</Typography>
             </Grid>
             <Grid item xs={4}>
-              <Paper className={classes.paper}>
+              <Paper className={classes.papers}>
                 <IconButton className={classes.pesawat}>
                   <FlightIcon/>
                 </IconButton>

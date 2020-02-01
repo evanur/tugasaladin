@@ -12,8 +12,8 @@ import ForumIcon from '@material-ui/icons/Forum';
 function Apps(props){
     const {classes}= props;
     return(
-        <Box display="flex" justifyContent="center">
-            <AppBar position="static" className={classes.app}>
+        <Box>
+            <AppBar justifyContent="center"  position="static" className={classes.app}>
             <Toolbar>
             <IconButton className={classes.icon}>
                 <MenuIcon/>

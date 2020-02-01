@@ -35,7 +35,7 @@ const useStyles = makeStyles(theme => ({
   root: {
     maxWidth: 360,
     flexGrow: 1,
-    marginLeft:10
+    
   },
   img: {
     height: 195,

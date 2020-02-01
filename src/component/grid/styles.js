@@ -8,6 +8,11 @@ const Styles={
         maxWidth:'80px',
         marginTop:30
       },
+      papers: {
+        textAlign: 'center',
+        maxWidth:'80px',
+        marginTop:10
+      },
       hotel:{
           color:'blue'
       },
